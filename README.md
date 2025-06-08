@@ -1,20 +1,40 @@
-<<<<<<< HEAD
-# My-Portfolio
-=======
-# my_portfolio
+# MyPortfolio
 
-A new Flutter project.
+Personal portfolio website showcasing my skills, projects, and experience.
+
+## Live Demo
+
+🔗 [https://myprotfolio-a0b51.web.app/](https://myprotfolio-a0b51.web.app/)
+
+## About
+
+This is a Flutter Web-based portfolio site that presents my professional background, projects, and contact information with a clean, responsive design optimized for all devices.
+
+## Features
+
+- Responsive UI for desktop and mobile
+- About Me section with biography and skills
+- Projects showcase with descriptions and links
+- Contact form for easy communication
+- Fast loading and SEO-friendly
+
+## Built With
+
+- [Flutter Web](https://flutter.dev/web)
+- [Firebase Hosting](https://firebase.google.com/products/hosting)
+- Dart
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed
+- Firebase CLI (optional for deployment)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> ffde4ba (first commit)
+```bash
+git clone https://github.com/yourusername/myportfolio.git
+cd myportfolio
+flutter pub get
+flutter run -d chrome
