@@ -16,7 +16,6 @@ This is a Flutter Web-based portfolio site that presents my professional backgro
 - About Me section with biography and skills
 - Projects showcase with descriptions and links
 - Contact form for easy communication
-- Fast loading and SEO-friendly
 
 ## Built With
 
